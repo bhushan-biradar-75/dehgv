@@ -1,0 +1,111 @@
+.rows{
+  width: auto;
+  height: 100vh;
+  margin-top: 0px;
+  padding-top:25;
+  
+}
+.imgs{
+  opacity: 0.8;
+}
+.cd{
+  width: 100%;
+  height: 100vh;
+  
+}
+.container{
+  background-color:whitesmoke;
+  <!--width: 100vh; height: 100vh; min-width: 200vh; min-height: 300vh;
+ 
+}
+.soft{
+  margin-right: 150px;  
+  font-size: 5mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+    color: black;
+    padding-top: 0%;
+    font-weight: bold; 
+}
+    
+.soft2{
+  backgroundcolor:;
+  font-size: 5mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: black;
+  font-weight: bold;
+}
+.soft3{
+  background-color:;
+  font-size: 5mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: black;
+  font-weight: bold;
+}
+.soft4{ 
+  background-color;
+  font-size: 5mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: black;
+  font-weight: bold;
+}
+
+.soft5{
+  color: black;
+  margin-left: 250px;
+  background-color gray;
+  text-decoration-color: black;
+  font-size: 5mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+.soft6{
+  color:black;
+  font-weight: bold;
+}
+.nan{
+  background-color: rgb(171, 180, 171);
+  font-weight: bold;
+  
+}
+.mar{
+  color:white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 5mm;
+  background-image: "https://images.pexels.com/photos/3857215/pexels-photo-3857215.jpeg?cs=srgb&dl=pexels-nick-wehrli-3857215.jpg&fm=jpg";
+  background-color: rgb(43, 44, 42);
+}
+
+.BL{
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  font-style: unset;
+  font-size: 18mm;
+  color:white;
+  text-shadow: 0px 1px, 1px 0px, 2px 2px;
+}
+.TL{
+  position: absolute;
+ left: 35%;
+  top: 40%;
+  color:white;
+  font-weight: bolder;
+  
+}
+.{
+    background-color:rgba (0, 0, 0, 0.2);
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.footer{
+  background-color: rgba(rgb(167, 26, 26);
+  margin-right: 20px;
+}
